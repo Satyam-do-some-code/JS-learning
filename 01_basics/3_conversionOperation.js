@@ -12,8 +12,8 @@ let str = "29abc";
 
 str = Number(str);
 
-console.log(str);
-console.log(typeof str);
+// console.log(str);
+// console.log(typeof str);
 
 
 // Converion to number 
@@ -26,7 +26,7 @@ let userLoggedIn = 1;
 
 userLoggedIn = Boolean(userLoggedIn);
 
-console.log(userLoggedIn);
+// console.log(userLoggedIn);
 
 
 //Conversion to boolean
@@ -38,3 +38,28 @@ console.log(userLoggedIn);
 
 
 */
+
+
+
+/*******************Operations******************* */
+
+let str1 = "Hello";
+let str2 = " World";
+
+let full = str1 + str2;
+
+// console.log(full);
+
+
+// console.log(2 + 4);
+
+// console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("1" + (2 + 2));
+// console.log(1 + 2 + "2");
+
+
+
+
+
+
