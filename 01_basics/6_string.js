@@ -9,7 +9,7 @@
 
 const user = new String("Richard");
 
-// console.log(user);
+console.log(user);
 // console.log(typeof user);
 // console.log(user[5]);
 
